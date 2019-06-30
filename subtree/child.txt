@@ -6,3 +6,4 @@ child5
 child6 parent change
 child7 parent change
 child8 child change
+child9 child change
