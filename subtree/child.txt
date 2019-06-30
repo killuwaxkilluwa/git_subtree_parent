@@ -4,3 +4,4 @@ child3
 child4
 child5
 child6 parent change
+child7 parent change
